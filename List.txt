@@ -1,0 +1,83 @@
+								part - 1
+
+
+Need :
+corner brackets - 20(wide)*28(long) = 
+M5 bolt and T nuts
+(marker high TPI ,saw,inch tabe)
+
+Aluminium Extrusion
+4 - 500mm 20*20
+2 - 340mm 20*20
+2 - 340mm 20*40
+2 - 303mm 20*20
+2 - 303mm 20*40
+2 - 285mm 20*20
+1 - 135mm 20*20
+Corner Brackets
+16 - 2028
+M5 sliding nuts - 50 pcs
+M5 Bolts (16mm) - 20 pcs
+
+To Buy : 
+
+Aluminium Extrusion
+20*20 = 4404(Tol - 4294)     -> 6*339 = 2034     
+20*40 = 1396 (Tol - 1286)    -> 2*593 = 1186
+Corner Brackets
+20*28 - 16 pcs               -> 20pcs = 287
+M5 sliding nut - 50 pcs      -> 274
+M5 botls (16mm) - 20 pcs     -> 124
+
+Part 1 Total - 3905
+
+								part - 2
+
+Need : 
+
+stock z slide plates
+2 - 400mm lead screw T8
+2 - 8mm smooth rod 350mm long
+
+Y axis
+1 - 8mm smooth rod
+1 - 10mm
+metal bushing
+
+1 - anit backlash nut 8mm
+4 - Nema 17 stepper motor
+1 - Lead screw 400mm T8
+1 - Anti Backlash nut block
+1 - coupler 8 to 8
+4 - Smooth rods 350mm,350mm,300mm,300mm 8mm
+2 - smooth rods 400mm,400mm 10mm
+2 -  LM8UU Linear Bearing 8mm
+
+To Buy : 
+
+Anti Backlash Nut (8mm)      -> 2*45 = 90
+nema 17 stepper motor        -> 5pcs = 1932
+Lead screw 400mm T8          -> 1piece = 246
+Anti Backlash Nut Block      -> 1*89 = 89
+smooth rods 400mm 8 mm       -> 4pcs = 550
+smooth rods 400mm 10 mm      -> 2pcs = 450
+coupler 8 to 8               -> 2pcs = 59
+LM8UU Linear Bearing 8mm     -> 2pcs = 147
+
+
+
+								part - 3
+Need : 
+2 - pulley 20T ID5mm OD16mm
+1 - GT-2 6mm Belt 2mts
+
+
+To Buy : 
+Pulley 20T 5mmID 16mmOD      -> 2*45 = 90
+GT-2 6mm Belt 2mts           -> 1pce = 231
+
+
+
+
+
+
