@@ -1,7 +1,7 @@
 						Part - 1
 Aluminium Extrusion & Printer Setup
 List of Parts : 
-1) X axis with 350mm length - 4 nos
+1) X axis with 340mm length - 4 nos
 2) Y axis with 303mm length - 4 nos
 3) Z axis with 350mm length - 4 nos
 4) BED 285 mm length        - 2 nos
